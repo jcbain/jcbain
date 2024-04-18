@@ -4,9 +4,11 @@
   〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 </div>
 
+I'm a developer and a dormant Anthropologist. I enjoy speaking about code but would much rather talk about food or sewing or neanderthals or primates. 
+
+### A few facts about me
 
 - 🐐 I'm currently spitting mad code for [TugboatQA](https://www.tugboatqa.com/)
-- 🦧 I'm an dormant Anthropologist and would drop everything to speak about primates or neanderthals
 - 💬 Ask me about computational language models
 - ⚡ I'm a faithfully against the use of the Oxford comma
 - 😄 Pronouns: they/he/she. I consider myself [agender](https://nonbinary.wiki/wiki/Agender)
