@@ -10,6 +10,7 @@
 - 💬 Ask me about computational language models
 - ⚡ I'm a faithfully against the use of the Oxford comma
 - 😄 Pronouns: they/he/she. I consider myself [agender](https://nonbinary.wiki/wiki/Agender)
+- 🥌 Partner (in life and curling) to [Jennifer](https://github.com/bainjen)
 
 
 
