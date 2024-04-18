@@ -1,5 +1,20 @@
-<h3 style="text-align: center;">Good morrow! I'm James! 👋</h3>
-<p style="text-align: center;">but you can call me James!</p>
+<div align="center">
+  <h3 style="text-align: center;">Good morrow! I'm James! 👋</h3>
+  <p style="text-align: center;">voted most likely to become a pizza!</p>
+  〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+</div>
+
+
+- 🐐 I'm currently spitting mad code for [TugboatQA](https://www.tugboatqa.com/)
+- 🦧 I'm an dormant Anthropologist and would drop everything to speak about primates or neanderthals
+- 💬 Ask me about computational language models
+- ⚡ I'm a faithfully against the use of the Oxford comma
+- 😄 Pronouns: they/he/she. I consider myself [agender](https://nonbinary.wiki/wiki/Agender)
+
+
+
+
+
 
 
 <!--
