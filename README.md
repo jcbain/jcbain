@@ -1,4 +1,6 @@
-### Hi there 👋
+<h3 style="text-align: center;">Good morrow! I'm James! 👋</h3>
+<p style="text-align: center;">but you can call me James!</p>
+
 
 <!--
 **jcbain/jcbain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
