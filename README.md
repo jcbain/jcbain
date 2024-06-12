@@ -1,6 +1,6 @@
 <div align="center">
   <h3 style="text-align: center;">Good morrow! I'm James! 👋</h3>
-  <p style="text-align: center;">voted most likely to become a pizza!</p>
+  <p style="text-align: center;">voted most likely to become a pizza</p>
   〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 </div>
 
